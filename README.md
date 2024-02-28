@@ -1,9 +1,11 @@
-### ![alt text](![banner](https://github.com/Isaiahsmith68/Isaiahsmith68/assets/156860569/bf6f2295-6ecf-4f6e-a570-28510eabfe97)
-)
-
-
 
 ### Hi there 👋
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaiahsmith68&size_weight=0.5&count_weight=0.5)
+
 
 
 <!--
