@@ -1,4 +1,10 @@
+### ![alt text](![banner](https://github.com/Isaiahsmith68/Isaiahsmith68/assets/156860569/bf6f2295-6ecf-4f6e-a570-28510eabfe97)
+)
+
+
+
 ### Hi there 👋
+
 
 <!--
 **Isaiahsmith68/Isaiahsmith68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
