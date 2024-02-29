@@ -6,7 +6,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isaiah-smith68/)  [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:isaiahsmith9@gmail.com) 
-![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge)
+![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/Isaiahsmith68?style=for-the-badge)
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Isaiahsmith68&theme=gruvbox) -->
 
