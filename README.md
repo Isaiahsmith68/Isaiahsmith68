@@ -1,4 +1,4 @@
-(![banner (2)](https://github.com/Isaiahsmith68/Isaiahsmith68/assets/156860569/29cde293-b944-4837-bcac-d616edff9f97)
+![banner (2)](https://github.com/Isaiahsmith68/Isaiahsmith68/assets/156860569/29cde293-b944-4837-bcac-d616edff9f97)
 
 
 
