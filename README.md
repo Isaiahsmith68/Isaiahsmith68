@@ -14,5 +14,7 @@
 ## About me
 
 * Currently getting a Master's degree at Fordham University 🐏 where I specialize in Data Science and Deep Learning.
-* Data-driven mindset with a passion for utilizing the vast amount of data at our disposal to build some cool things! 😎
+* Data-driven mindset with a passion for utilizing the vast amount of data at our disposal to discover and build some cool things! 😎
 * Continous learner 🧠 who feels pushed by the amazing community surrounding this field.
+* Hoping to find myself in a data-centric role utilizing my skill set to uncover insights to help a business achieve its goals.
+
